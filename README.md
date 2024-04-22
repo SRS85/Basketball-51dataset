@@ -23,4 +23,17 @@ Total number of games: 51
 # Cite this Paper
  
 S. R. Shakya, C. Zhang, and Z. Zhou, “Basketball-51: A video Dataset for Activity Recognition in the Basketball Game,” in 11th International Conference on Computer Science and Information Technology, doi: 10.5121/csit.2021.110712.
+
+```
+@inproceedings{shakya2021basketball,
+  title={Basketball-51: A video dataset for activity recognition in the basketball game},
+  author={Shakya, Sarbagya Ratna and Zhang, Chaoyang and Zhou, Zhaoxian},
+  booktitle={CS \& IT Conference Proceedings},
+  volume={11},
+  number={7},
+  year={2021},
+  organization={CS \& IT Conference Proceedings}
+}
+```
+
  
