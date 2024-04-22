@@ -1,6 +1,6 @@
 # Basketball-51 dataset
 
-This dataset contains the Basketball-51 dataset to classify the different basketball scores.
+This dataset contains the Basketball-51 dataset to classify the different basketball scores.[https://csitcp.com/abstract/11/117csit12]
 # Data format
 ```
 Total number of clips: 10,311  /n
