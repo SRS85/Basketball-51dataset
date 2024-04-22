@@ -6,7 +6,15 @@ Total number of clips: 10,311  /n
 Total length of each clip: 6 seconds.
 Dimension of clips: Quater Video Graphics display(QVGA) ( 320 by 240) pixels. 
 Total number of games: 51
-8 class labels: Two point miss(2p0), Two point make(2p1), three point miss(3p0), three point make(3p1), free throw miss( ft0), free throw make(ft1), mid range shot miss(mp0), mid-range shot make(mp1).
+8 class labels:
+ -Two point miss(2p0), 
+ -Two point make(2p1), 
+ -Three point miss(3p0), 
+ -Three point make(3p1), 
+ -Free throw miss( ft0), 
+ -Free throw make(ft1), 
+ -Mid range shot miss(mp0), 
+ -Mid-range shot make(mp1).
 
  
 # Cite this Paper
