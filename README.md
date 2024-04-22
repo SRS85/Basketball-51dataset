@@ -1,4 +1,4 @@
-# Basketball-51-dataset
+# Basketball-51 dataset
 
 This dataset contains the Basketball-51 dataset to classify the different activities related to basketball.
 # Data format
