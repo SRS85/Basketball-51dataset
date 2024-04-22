@@ -21,7 +21,8 @@ Total number of games: 51
  - Mid range shot miss(mp0), 
  - Mid-range shot make(mp1).
 ```
- 
+ # Link to download the dataset
+ http://gofile.me/6RSLG/4GR2BSeBX
 # Cite this Paper
  
 S. R. Shakya, C. Zhang, and Z. Zhou, “Basketball-51: A video Dataset for Activity Recognition in the Basketball Game,” in 11th International Conference on Computer Science and Information Technology, doi: 10.5121/csit.2021.110712.
