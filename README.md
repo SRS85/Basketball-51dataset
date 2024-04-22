@@ -2,7 +2,7 @@
 
 This dataset contains the Basketball-51 dataset to classify the different basketball scores.
 # Data format
-Total number of clips: 10,311
+Total number of clips: 10,311 \n
 Total length of each clip: 6 seconds.
 Dimension of clips: Quater Video Graphics display(QVGA) ( 320 by 240) pixels. 
 Total number of games: 51
