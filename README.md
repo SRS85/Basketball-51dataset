@@ -23,6 +23,7 @@ Total number of games: 51
 ```
  # Link to download the dataset
  http://gofile.me/6RSLG/4GR2BSeBX
+ https://www.kaggle.com/datasets/sarbagyashakya/basketball-51-dataset
 # Cite this Paper
  
 S. R. Shakya, C. Zhang, and Z. Zhou, “Basketball-51: A video Dataset for Activity Recognition in the Basketball Game,” in 11th International Conference on Computer Science and Information Technology, doi: 10.5121/csit.2021.110712.
